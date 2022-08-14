@@ -1,7 +1,7 @@
 # Dimensionality-Reduction-Methods
-
+Nowadays, most of data are in high-dimensional space to save the large amount of information, but it would not be observed or analyzed intuitively. Hence, there are three methods provide different concepts to preserve the characteristics of each dimension as much as possible in a lower dimensional space.
 ## Method 1 - Principal Component Analysis
-PCA is a linear unsupervised learning tool for dimensional reduction, since high-dimensional data cannot be observed or analyzed intuitively, PCA gives a method that preserves the characteristics of each dimension as much as possible in a lower dimensional space.\
+PCA is a linear unsupervised learning tool for dimensional reduction, since high-dimensional data cannot PCA gives a method that \
 Here is an example, which is 2-dimensional reduct to one line. Red points are the original dataset, bule line is the projection by PCA.\
 ![image](https://user-images.githubusercontent.com/110155589/184064900-5f2fa60c-8fe4-4660-a543-5099b7b3de39.png)\
 From this, it can be observed that the points after the projection are separated as much as possible.

@@ -1,13 +1,12 @@
 # Dimensionality-Reduction-Methods
-Nowadays, most of data are in high-dimensional space to save the large amount of information, but it would not be observed or analyzed intuitively. Hence, there are three methods provide different concepts to preserve the characteristics of each dimension as much as possible in a lower dimensional space.
-## Method 1 - Principal Component Analysis
-PCA is a linear unsupervised learning tool for dimensional reduction, since high-dimensional data cannot PCA gives a method that \
-Here is an example, which is 2-dimensional reduct to one line. Red points are the original dataset, bule line is the projection by PCA.\
-![image](https://user-images.githubusercontent.com/110155589/184064900-5f2fa60c-8fe4-4660-a543-5099b7b3de39.png)\
-From this, it can be observed that the points after the projection are separated as much as possible.
-Moreover, we choose the swiss roll dataset to apply by PCA.\
-![image](https://user-images.githubusercontent.com/110155589/184064930-44dcd754-ba76-4386-8f2f-ffce126e37f4.png)
+Nowadays, most of data are in high-dimensional space to save the large amount of information, but it would not be observed or analyzed intuitively. Hence, there are three linear methods provide different concepts to preserve the characteristics of data as much as possible and make it visualized in lower-dimensional space.
+## Method 1 - Principal Component Analysis(PCA)
+The concept of PCA is to make the projected data as dispersed as possible, as shown in the figure below, red points are the original data points, blue line is the projection by PCA and the green stars on the PCA line are the projected data.
+![image](https://user-images.githubusercontent.com/110155589/184601889-ebc9abe1-a24f-4000-ba2f-c8e38ff22e32.png)\
+Hence we can conclude two equivalent purpose:
+1. To maximize the variance of the projected data in lower-dimensional space.
+2. To minimize the sum of square distances between original data and projected data
 
-## Method 2 - MultiDimensional Scaling
-
+## Method 2 - MultiDimensional Scaling(MDS)
+Another method called MDS which is using the square distances matrix
 ## Method 3 - Linear Discriminant Analysis

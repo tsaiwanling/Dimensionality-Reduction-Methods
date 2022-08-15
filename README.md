@@ -16,7 +16,11 @@ Another method called MDS which is to find the dataset that has the same distanc
 
 ## Demonstration
 ### Swiss roll
-![image](https://user-images.githubusercontent.com/110155589/184628255-7c91b173-b35e-4972-83ab-dd58c6b122ef.png)![image](https://user-images.githubusercontent.com/110155589/184628320-705b2d94-7d76-4a31-b161-965b2ef76d34.png)
+![image](https://user-images.githubusercontent.com/110155589/184636816-0b032987-70e0-45c2-9b5e-f370db2edd53.png)![image](https://user-images.githubusercontent.com/110155589/184636825-eb38c54e-7c02-4557-9203-ae6070785fe4.png)
+![image](https://user-images.githubusercontent.com/110155589/184636843-23f81d9f-f4c9-4f24-a36d-0c88998756ba.png)
 
 
 ### Torodial helix
+![image](https://user-images.githubusercontent.com/110155589/184642838-cd2e6d15-57de-4585-9f11-7cd46b733c3d.png)
+![image](https://user-images.githubusercontent.com/110155589/184642851-09a0a693-4a82-4e56-88d4-e8f563a8ec4c.png)
+![image](https://user-images.githubusercontent.com/110155589/184642867-7026ab44-eda2-434f-9fb3-bdb21a12d45f.png)

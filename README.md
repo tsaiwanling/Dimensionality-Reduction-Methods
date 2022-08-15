@@ -18,14 +18,14 @@ Another method called MDS which is to find the dataset that has the same distanc
 ### Swiss roll
 ![image](https://user-images.githubusercontent.com/110155589/184646298-8bff9260-288d-4276-90b5-d3638b3552d3.png)
 
-![image](https://user-images.githubusercontent.com/110155589/184636816-0b032987-70e0-45c2-9b5e-f370db2edd53.png)
-![image](https://user-images.githubusercontent.com/110155589/184645605-c03bdf72-3757-4b04-ad94-f9bf324e5f4b.png)
-![image](https://user-images.githubusercontent.com/110155589/184636843-23f81d9f-f4c9-4f24-a36d-0c88998756ba.png)
+![image](https://user-images.githubusercontent.com/110155589/184647335-b3640250-c33d-4b1a-8277-6d38354c41fd.png)
+![image](https://user-images.githubusercontent.com/110155589/184647355-a6126633-c7fd-483d-9013-cfb43a460162.png)
+![image](https://user-images.githubusercontent.com/110155589/184647381-b3c4dc4e-e148-4c2f-a99e-e5bfbe660871.png)
 
 
 ### Torodial helix
 ![image](https://user-images.githubusercontent.com/110155589/184646400-ac14a673-dbc2-4b26-9499-91d350726d03.png)
 
-![image](https://user-images.githubusercontent.com/110155589/184642838-cd2e6d15-57de-4585-9f11-7cd46b733c3d.png)
-![image](https://user-images.githubusercontent.com/110155589/184645633-81f5bc4a-ffed-443e-a813-1a43f4469efd.png)
-![image](https://user-images.githubusercontent.com/110155589/184642867-7026ab44-eda2-434f-9fb3-bdb21a12d45f.png)
+![image](https://user-images.githubusercontent.com/110155589/184647406-e9df4c1a-3539-4e29-8eec-9df6cf0a8964.png)
+![image](https://user-images.githubusercontent.com/110155589/184647517-00fc9829-69ab-4363-8a01-8d6c99802004.png)
+![image](https://user-images.githubusercontent.com/110155589/184647454-ac509415-a381-489c-8147-951c0319e352.png)

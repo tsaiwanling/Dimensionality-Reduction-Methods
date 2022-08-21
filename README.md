@@ -9,11 +9,17 @@ Hence we can conclude two equivalent purpose:
 
 ## Method 2 - Fisher Discriminant Analysis(FDA)
 LDA is a method similar to PCA. The concept of the LDA is to make the projected data as dispersed as possible, while keeping the same group of data as close together as possible. As shown in the figure below.\
-![image](https://user-images.githubusercontent.com/110155589/184627853-999de168-182b-49ae-bf69-5ecb87947616.png)
+![image](https://user-images.githubusercontent.com/110155589/184627853-999de168-182b-49ae-bf69-5ecb87947616.png)\
+Hence there are two goals that need to be met at the same time after projection.
+1. To maximize the between-classes scatter.
+2. To minimize the within-classes scatter.
 
 ## Method 3 - MultiDimensional Scaling(MDS)
-Another method called MDS which is to find the dataset that has the same distance matrix(DM) as the original dataset in the lower dimension.
-
+Another method called MDS which is to find the dataset that has the same distance matrix(DM) as the original dataset in the lower dimension.\
+Using the theorem as follow\
+$$Y^TY=-\frac{1}{2}HDH$$\
+, this theorem gives the way to find out the data in lower dimensional space.\
+Moreover, MDS doing the almost same work as PCA, they both have the same result.
 ## Demonstration
 ### Swiss roll
 ![image](https://user-images.githubusercontent.com/110155589/184646298-8bff9260-288d-4276-90b5-d3638b3552d3.png)
